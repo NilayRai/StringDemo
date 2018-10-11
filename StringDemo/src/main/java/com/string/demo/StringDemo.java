@@ -5,6 +5,7 @@ public class StringDemo {
 		String[] str = { "Nilay", "Kumar", "Nihal", "Vikash", "Mahi" };
 		for (String string : str) {
 			System.out.println(string);
+
 			System.out.println("Jeldllldldljsdkjskdjskjkd");
 		}
 	}
